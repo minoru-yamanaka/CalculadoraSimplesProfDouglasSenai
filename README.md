@@ -26,3 +26,12 @@ Note que a lógica da calculadora é implementada principalmente no método `rea
 
 ---
 ![imagem](Imagem1.jpg)
+
+---
+
+Prezado [Professor Douglas](linkedin.com/in/douglas-dos-reis-3473a868),
+
+Quero expressar minha gratidão pela chance de criar esta calculadora no ambiente Android. Essa experiência foi enriquecedora e teve um impacto positivo em meu aprendizado. 🚀 Agradeço pela valiosa orientação.
+
+Atenciosamente,
+Minoru
